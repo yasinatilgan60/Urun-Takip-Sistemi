@@ -1,0 +1,13 @@
+c:\users\atılgan\documents\visual studio 2015\Projects\UrunTakip\UrunTakip\bin\Debug\UrunTakip.exe.config
+c:\users\atılgan\documents\visual studio 2015\Projects\UrunTakip\UrunTakip\bin\Debug\UrunTakip.exe
+c:\users\atılgan\documents\visual studio 2015\Projects\UrunTakip\UrunTakip\bin\Debug\UrunTakip.pdb
+c:\users\atılgan\documents\visual studio 2015\Projects\UrunTakip\UrunTakip\obj\Debug\UrunTakip.csprojResolveAssemblyReference.cache
+c:\users\atılgan\documents\visual studio 2015\Projects\UrunTakip\UrunTakip\obj\Debug\UrunTakip.frmGiris.resources
+c:\users\atılgan\documents\visual studio 2015\Projects\UrunTakip\UrunTakip\obj\Debug\UrunTakip.Properties.Resources.resources
+c:\users\atılgan\documents\visual studio 2015\Projects\UrunTakip\UrunTakip\obj\Debug\UrunTakip.csproj.GenerateResource.Cache
+c:\users\atılgan\documents\visual studio 2015\Projects\UrunTakip\UrunTakip\obj\Debug\UrunTakip.exe
+c:\users\atılgan\documents\visual studio 2015\Projects\UrunTakip\UrunTakip\obj\Debug\UrunTakip.pdb
+c:\users\atılgan\documents\visual studio 2015\Projects\UrunTakip\UrunTakip\obj\Debug\UrunTakip.frmMenu.resources
+c:\users\atılgan\documents\visual studio 2015\Projects\UrunTakip\UrunTakip\obj\Debug\UrunTakip.frmMusteri.resources
+C:\Users\Atılgan\Documents\Visual Studio 2015\Projects\UrunTakip\UrunTakip\obj\Debug\UrunTakip.frmPersonel.resources
+C:\Users\Atılgan\Documents\Visual Studio 2015\Projects\UrunTakip\UrunTakip\obj\Debug\UrunTakip.frmUrunler.resources
