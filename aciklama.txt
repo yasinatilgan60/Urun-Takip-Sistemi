@@ -1,0 +1,4 @@
+Kullanýlanlar;
+
+- Visual Studio 2015
+- Sql Server Management Studio 2012
